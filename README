@@ -1,0 +1,12 @@
+TotalProfiler
+=============
+
+TotalProfiler предназначен для того, чтобы иметь возможность профилировать любой метод любого класса. Или все методы. Что профилировать указывается в файле инициализаторе.  
+
+Example
+=======
+
+Example goes here.
+
+
+Copyright (c) 2010 [name of plugin creator], released under the MIT license
